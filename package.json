@@ -1,0 +1,23 @@
+{
+  "name": "ex002",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "MrChoke",
+    "email": "mrchoke@gmail.com"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.7",
+    "vue": "^3.0.0-rc.5",
+    "vue-router": "^4.0.0-beta.5"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "vite": "^1.0.0-rc.4"
+  }
+}
